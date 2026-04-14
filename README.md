@@ -32,10 +32,10 @@ The project focuses on building interactive dashboards to analyze sales performa
 ## Dashboard Previews
 
 ### Sales Dashboard
-![Sales Dashboard](screenshots/sales-dashboard.png)
+![Sales Dashboard](sales-dashboard.png)
 
 ### Service Dashboard
-![Service Dashboard](screenshots/service-dashboard.png)
+![Service Dashboard](service-dashboard.png)
 
 ## Certificate
 Issued by IBM as part of the Data Analyst Professional Certificate
